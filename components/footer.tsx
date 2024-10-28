@@ -10,7 +10,7 @@ const Footer = () => {
                         src="/logo-light.png"
                         width={200}
                         height={200}
-                        alt="Codimizer"
+                        alt="Quick SaaS"
                         />
                 </div>
 

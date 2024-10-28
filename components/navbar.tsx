@@ -20,7 +20,7 @@ const Navbar = () => {
                             src="/logo-dark.png"
                             width={200}
                             height={0}
-                            alt="Codimizer"
+                            alt="Quick SaaS"
                         />
                     </a>
                 </div>

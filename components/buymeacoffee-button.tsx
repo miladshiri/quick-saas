@@ -9,7 +9,7 @@ const BuyMeACoffeeButton = () => {
             src="/keepitfree.png"
             width={200}
             height={200}
-            alt="Codimizer"
+            alt="keep it free"
             className="mx-auto"
         />
 
@@ -22,7 +22,7 @@ const BuyMeACoffeeButton = () => {
             src="/bmc-button.png"
             width={200}
             height={200}
-            alt="Codimizer"
+            alt="donate"
             className="mx-auto"
         />
       </a>

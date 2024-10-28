@@ -16,8 +16,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Codimizer",
-  description: "Get feedback and optimize your code!",
+  title: "Quick SaaS",
+  description: "Build you SaaS quickly!",
 };
 
 export default function RootLayout({
